@@ -21,11 +21,12 @@ This is an exercise for testing purposes only. The intention is to showcase prog
 
 Unesco World Heritage App requires [Node v20](https://nodejs.org/en/download) to run.
 
-Install the dependencies and devDependencies and start the server.
+Install the dependencies and devDependencies, create production build and start the server.
 
 ```sh
 cd unesco-world-heritage-app
 npm i
+npm run build
 npm start
 ```
 
